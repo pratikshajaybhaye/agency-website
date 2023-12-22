@@ -1,11 +1,12 @@
 img {
   max-height: 200px;
-  max-width: 200px;
+  max-width: 150px;
   margin-right: 10px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 #beautiful {
   float: left;
+  clear: right;
 }
 #design {
   float: right;
@@ -15,10 +16,11 @@ img {
 #develop {
   float: right;
   font-size: small;
+  margin-right: 50px;
 }
 #construction{
-  float: left;
   margin-bottom: 250px;
+  clear: right;
 }
 #logo{
   height:20px;
