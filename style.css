@@ -1,0 +1,40 @@
+img {
+  max-height: 200px;
+  max-width: 200px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+#beautiful {
+  float: left;
+}
+#design {
+  float: right;
+  font-size: small;
+  margin-right: 10px;
+}
+#develop {
+  float: right;
+  font-size: small;
+}
+#construction{
+  float: left;
+  margin-bottom: 250px;
+}
+#logo{
+  height:20px;
+  width:auto;
+}
+h4{
+  float: right;
+}
+span{
+  color: blue;
+}
+.name{
+  font-size: 1.5em;
+  color: black;
+}
+body{
+  background-color: #faf9f6;
+  font-family: "Poppins", sans-serif;
+}
